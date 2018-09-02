@@ -1,0 +1,289 @@
+
+#box90{
+ background-image: url(trippie.jpg), url(https://img.freepik.com/vecteurs-libre/mot-de-neon-rap-et-microphone-dans-le-contour-de-la-flamme_1262-11901.jpg?size=338&ext=jpg); 
+ width: 300% !important;
+ height:100% !important;
+}
+#box66:hover{
+    outline: 7px solid #000;
+    transition: inline .1s;
+    outline-offset: -5px;
+    
+}
+#box67:hover{
+    outline: 7px solid #000;
+    transition:inline .1s;
+    outline-offset: -5px;
+    
+}
+
+#box68:hover{
+    outline: 7px solid #000;
+    transition:inline .1s;
+    outline-offset: -5px;
+    
+}
+#box69:hover{
+    outline: 7px solid #000;
+    transition: inline .1s;
+    outline-offset: -5px;
+    
+}
+#box66{color: black ;
+  background-color: purple;
+padding: 0px;
+padding-left: 0px;
+padding top: 0px;
+padding-bottom: 0px;
+padding-right: 0px;
+width: 20% !important;
+height: 600px;
+margin-left: 10px;
+background-image: url(https://ssli.ulximg.com/image/740x493/gallery/1515013674_06740ac654a137907005d28eb3873b1d.jpg/da505e1dd4f40167dead16d47d522414/1515013674_2f62dbe3200ed776916d4799dfe6f5c9.jpg);
+background-size: cover;
+}
+#box67{color: black ;
+  background-color:purple;
+padding-bottom: 0px;
+padding-left: 0px;
+padding: 0px;
+padding top: 0px;
+padding-right: 0px;
+width: 20% !important;
+height: 500px;
+margin-left: 575px;
+background-image:  url(https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/lxktui68jszu8zkbney2/gucci-mane-autobiography);
+background-size: cover;
+
+
+}
+#box68{color: black ;
+  background-color: purple;
+padding: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding top: 0px;
+padding-right: 0px;
+width: 20%;
+height: 600px;
+margin-left: 10px;
+background-image: url(https://images.pigeonsandplanes.com/images/c_crop,h_440,w_522,x_111,y_0/c_limit,f_auto,fl_lossy,q_auto,w_1030/clefrxcwc5xsthgc41lk/21-savage-smile);
+background-size: cover;
+}
+#box69{color: black ;
+  background-color: purple;
+padding: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding top: 0px;
+padding-right: 0px;
+width: 20% !important;
+height: 500px;
+margin-left: 575px;
+background-image: url(http://s3.amazonaws.com/hiphopdx-production/2018/06/Juice-WRLD-800x600.jpg);
+background-size: cover;
+}
+    
+
+
+#box2{
+width: 102% !important;
+    height: 400px;
+    padding: 50px;
+    border: 6px solid black;
+  margin-bottom:30px;
+  background-image:url(redd.jpg), url(https://i0.wp.com/datpizz.com/wp-content/uploads/2017/10/trippie-redd.jpg?resize=1030%2C640&ssl=1);
+  margin-right: 30px;
+width: 92.5%;
+height:150%;
+ background-size: cover;  
+}
+#box3{
+width: 102% !important;
+    height: 400px;
+    padding: 50px;
+    border: 6px solid black;
+  margin-bottom:30px;
+	background-image:url(trippi.jpg), url(http://www.hiphopreverse.fr/wp-content/uploads/2017/10/wp1911081.jpg);
+	margin-right: 30px;
+width: 92.5%;
+height:150%;
+ background-size: cover;	
+}
+#box5{
+width: 102% !important;
+    height: 400px;
+    padding: 50px;
+    border: 6px solid black;
+  margin-bottom:30px;
+	background-image:url(lilbaby.jpeg), url(https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/c3/bc3a4a8f-9d7c-55a0-ab7e-98ee4a2f0c7c/5b51013952d68.image.jpg);
+	margin-right: 30px;
+width: 92.5%;
+height:150%;
+ background-size: cover;	
+}
+#box4{
+	margin-top: 500px;
+	width: 102% ! important;
+    height: 400px;
+    padding: 50px;
+    border: 6px solid black;
+  margin-bottom:30px;
+	background-image:url(skimask.jpg), url(https://pbs.twimg.com/media/C2KnisLUsAAaM_t.jpg); 
+width: 92.5%;
+height:150%;
+}
+#box6{
+	width: 102% !important;
+    height: 400px;
+    padding: 50px;
+    border: 6px solid black;
+  margin-bottom:30px;
+	background-image:url(gunna.jpg), url(https://media.ntslive.co.uk/crop/770x770/056ea57c-306a-4636-92d1-08ed88c5cea6_1529625600.png); 
+width: 92.5%;
+height:150%;
+ background-size: cover;
+}
+.navbar {
+  width: 1500px;
+  height: 100px;
+  background-color: #a80ffa;
+ 
+}
+
+
+.navbar a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: none;
+}
+
+/* Current/active navbar link */
+.active {
+  background-color:;
+}
+
+/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+.horizontal-menue {
+    width: 1700px; 
+    height: 220px;
+}
+
+.horizontal-menue a {
+    background-color: #eee; 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+}
+
+.horizontal-menue a:hover {
+    background-color: #ccc; 
+}
+
+.horizontal-menue a.active {
+    background-color: #a80ffa;
+    color: white;
+}
+
+.dropbtn {
+    background-color: #a80ffa;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropright {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: # #ad056a;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropright-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ad056a;}
+
+/* Show the dropdown menu on hover */
+.dropright:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropright:hover .dropbtn {background-color:  #ad056a;}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  position:relative;
+left:1110px;
+
+margin-bottom: 30px;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  position:relative;
+  left: 1155px;
+
+}
+#pink{
+	background-color: pink;
+
+	 ;
+}
+	   .fa-youtube{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+#oldschool{
+  font-size: 15px;
+
+}
+#halwa{
+  background-color: pink;
+}
+
